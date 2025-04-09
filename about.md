@@ -1,3 +1,5 @@
-# whoami
+---
+layout: about
+---
 
 beep boop
