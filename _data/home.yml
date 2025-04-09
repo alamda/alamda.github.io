@@ -1,0 +1,37 @@
+navbar_entries:
+  - title: home
+    url: ""
+
+  - title: about
+    url: /about
+
+  - title: portfolio
+    url: /portfolio
+
+  - title: publications
+    url: /publications
+
+  - title: blog
+    url: /blog
+
+publication_entries:
+  - title: Active Diffusion
+    url: publications/active-diffusion
+    desc: This is an example project, configured in _data/home.yml
+    highlight: WIP
+
+  - title: Applied Forces
+    url: publications/applied-forces
+    desc: Projects are shown in card layout
+
+  - title: Rate of Work
+    url: publications/rate-of-work
+    desc: You can control visibility from _config.yml file
+
+footer_entries:
+  - title: github
+    url: https://github.com/alamda
+
+  - title: gitlab
+    url: https://gitlab.com/alamda
+
