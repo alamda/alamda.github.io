@@ -17,16 +17,15 @@ navbar_entries:
 publication_entries:
   - title: Active Diffusion
     url: publications/active-diffusion
-    desc: This is an example project, configured in _data/home.yml
-    highlight: WIP
+    desc: Score-based generative diffusion with "active" correlated noise sources
 
   - title: Applied Forces
     url: publications/applied-forces
-    desc: Projects are shown in card layout
+    desc: Contractile to extensile transitions and mechanical adaptability enabled by activity in cytoskeletal structures
 
   - title: Rate of Work
     url: publications/rate-of-work
-    desc: You can control visibility from _config.yml file
+    desc: Thermodynamic control of activity patterns in cytoskeletal networks
 
 footer_entries:
   - title: github
